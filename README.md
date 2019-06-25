@@ -1,2 +1,2 @@
 # gitstudy
-Git study temporary repository
+Git을 처음 사용하시는 분들을 위한 저장소 입니다. 마음껏 Git 명령어를 사용하세요.
